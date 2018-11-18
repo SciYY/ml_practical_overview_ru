@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Начальная страница](README.md)
-* [Статистика](topic-statistics.md)
+* [Статистика](topic_statistics.md)
 
 ## group1
 

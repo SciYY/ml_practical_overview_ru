@@ -20,4 +20,4 @@
 
 ## Лицензия
 
-Курс распространяется под лицензией [CC-BY](https://creativecommons.org/licenses/by/4.0/). Список авторов можно посмотреть на [странице истории изменений в GitHub](https://github.com/SciYY/ml_practical_overview_ru/commits/master).
+Курс распространяется под лицензией [CC-BY](https://creativecommons.org/licenses/by/4.0/). Список авторов можно посмотреть на [странице участников проекта в GitHub](https://github.com/SciYY/ml_practical_overview_ru/graphs/contributors).
